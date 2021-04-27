@@ -1,16 +1,9 @@
 {
     "alunos": [
       
+        
         {
-            "id": 2,
-            "nome": "Andressa",
-            "turma":"TII2001T",
-            "frequencia": "89%",
-            "idade":"21 anos",
-            "turno": "Tarde"
-        },
-        {
-            "id": 3,
+            "id": 1,
             "nome": "André",
             "turma":"ADM2001T",
             "frequencia": "79%",
@@ -18,7 +11,7 @@
             "turno": "Tarde"
         },
         {
-            "id": 4,
+            "id": 2,
             "nome": "Alex",
             "turma":"ADM2001M",
             "frequencia": "64%",
@@ -26,7 +19,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 5,
+            "id": 3,
             "nome": "Bruno",
             "turma":"ADM2001M",
             "frequencia": "80%",
@@ -34,7 +27,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 6,
+            "id": 4,
             "nome": "Bárbara",
             "turma":"ADM2001T",
             "frequencia": "22%",
@@ -42,7 +35,7 @@
             "turno": "Tarde"
         },
         {
-            "id": 7,
+            "id": 5,
             "nome": "Carlos",
             "turma":"TII2001M",
             "frequencia": "67%",
@@ -50,7 +43,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 8,
+            "id": 6,
             "nome": "Camila",
             "turma":"TII2001T",
             "frequencia": "99%",
@@ -58,7 +51,7 @@
             "turno": "Tarde"
         },
         {
-            "id": 9,
+            "id": 7,
             "nome": "Cleber",
             "turma":"TII2001T",
             "frequencia": "59%",
@@ -66,7 +59,7 @@
             "turno": "Tarde"
         },
         {
-            "id": 10,
+            "id": 8,
             "nome": "Davi",
             "turma":"ADM2001T",
             "frequencia": "55%",
@@ -74,7 +67,7 @@
             "turno": "Tarde"
         },
         {
-            "id": 11,
+            "id": 9,
             "nome": "Daniela",
             "turma":"ADM2001T",
             "frequencia": "55%",
@@ -82,7 +75,7 @@
             "turno": "Tarde"
         },
         {
-            "id": 12,
+            "id": 10,
             "nome": "Fernanda",
             "turma":"ADM2001M",
             "frequencia": "64%",
@@ -90,7 +83,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 13,
+            "id": 11,
             "nome": "Felipe",
             "turma":"TII2001M",
             "frequencia": "70%",
@@ -99,7 +92,7 @@
         },
 
         {
-            "id": 14,
+            "id": 12,
             "nome": "Fransisco Daniel",
             "turma":"TII2001M",
             "frequencia": "70%",
@@ -107,7 +100,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 15,
+            "id": 13,
             "nome": "Gabriel A",
             "turma":"TII2001M",
             "frequencia": "80%",
@@ -115,7 +108,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 16,
+            "id": 14,
             "nome": "Gabriel H",
             "turma":"TII2001M",
             "frequencia": "80%",
@@ -123,7 +116,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 17,
+            "id": 15,
             "nome": "Gabriela",
             "turma":"ADM2001M",
             "frequencia": "74%",
@@ -132,7 +125,7 @@
         },
        
         {
-            "id": 18,
+            "id": 16,
             "nome": "Guilherme",
             "turma":"TII2001M",
             "frequencia": "80%",
@@ -140,7 +133,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 19,
+            "id": 17,
             "nome": "Ivan",
             "turma":"TII2001M",
             "frequencia": "80%",
@@ -148,7 +141,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 20,
+            "id": 18,
             "nome": "Igor E",
             "turma":"TII2001M",
             "frequencia": "80%",
@@ -156,7 +149,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 21,
+            "id": 19,
             "nome": "Igor B",
             "turma":"TII2001M",
             "frequencia": "80%",
@@ -164,7 +157,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 22,
+            "id": 20,
             "nome": "Junio",
             "turma":"TII2001M",
             "frequencia": "80%",
@@ -173,7 +166,7 @@
         },
         
         {
-            "id": 23,
+            "id": 21,
             "nome": "Lucas A",
             "turma":"TII2001M",
             "frequencia": "83%",
@@ -181,7 +174,7 @@
             "turno": "Manhã"
         },
           {
-            "id": 24,
+            "id": 22,
             "nome": "Lucas E",
             "turma":"TII2001M",
             "frequencia": "83%",
@@ -191,7 +184,7 @@
 
 
         {
-            "id": 25,
+            "id": 23,
             "nome": "Luiz F",
             "turma":"TII2001M",
             "frequencia": "80%",
@@ -200,7 +193,7 @@
         },
     
        {
-            "id": 26,
+            "id": 24,
             "nome": "Kelly",
             "turma":"ADM2001T",
             "frequencia": "99%",
@@ -208,7 +201,7 @@
             "turno": "Tarde"
         },
         {
-            "id": 27,
+            "id": 25,
             "nome": "Stella",
             "turma":"TII2001M",
             "frequencia": "87%",
@@ -216,7 +209,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 28,
+            "id": 26,
             "nome": "Rafael",
             "turma":"TII2001M",
             "frequencia": "92%",
@@ -224,7 +217,7 @@
             "turno": "Manhã"
         },
         {
-            "id": 29,
+            "id": 27,
             "nome": "Thales",
             "turma":"TII2001M",
             "frequencia": "84%",
@@ -233,7 +226,7 @@
         },
   
         {
-            "id": 30,
+            "id": 28,
             "nome": "Vinicius",
             "turma":"TII2001M",
             "frequencia": "84%",

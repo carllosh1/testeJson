@@ -1,13 +1,6 @@
 {
     "alunos": [
-        {
-            "id": 1,
-            "nome": "Ana",
-            "turma":"TII2001T",
-            "frequencia": "87%",
-            "idade":"22 anos",
-            "turno": "Tarde"
-        },
+      
         {
             "id": 2,
             "nome": "Andressa",

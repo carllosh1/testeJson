@@ -137,14 +137,7 @@
             "idade":"19 anos",
             "turno": "Manhã"
         },
-        {
-            "id": 17,
-            "nome": "Giovanna",
-            "turma":"TII2001T",
-            "frequencia": "72%",
-            "idade":"19 anos",
-            "turno": "Tarde"
-        },
+       
         {
             "id": 18,
             "nome": "Guilherme",
@@ -185,19 +178,18 @@
             "idade":"23 anos",
             "turno": "Manhã"
         },
+        
         {
             "id": 23,
-            "nome": "João A",
-            "turma":"ADM2001M",
-            "frequencia": "71%",
-            "idade":"19 anos",
+            "nome": "Lucas A",
+            "turma":"TII2001M",
+            "frequencia": "83%",
+            "idade":"21 anos",
             "turno": "Manhã"
         },
-   
-   
-        {
+          {
             "id": 24,
-            "nome": "Lucas A",
+            "nome": "Lucas E",
             "turma":"TII2001M",
             "frequencia": "83%",
             "idade":"21 anos",
